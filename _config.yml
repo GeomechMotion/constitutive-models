@@ -1,0 +1,10 @@
+title: "GeomechMotion - Modelos Constitutivos"
+description: "Visualizaciones de superficies de fluencia, trayectorias de tensiones y respuestas tipicas."
+
+url: "https://geomechmotion.github.io"
+baseurl: "/constitutive-models"
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: fongandrew/hydeout

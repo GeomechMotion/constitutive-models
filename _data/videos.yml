@@ -1,0 +1,12 @@
+- title: "Mohr-Coulomb vs HS-Small"
+  desc: "Comparacion cualitativa de rigidez y plastificacion (demo)."
+  tags: ["constitutivo","PLAXIS"]
+  mp4: "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  webm: "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm"
+  poster: "/assets/posters/video1.jpg"
+
+- title: "PM4Sand - conceptos"
+  desc: "Superficies de fluencia e indice de estado (placeholder)."
+  tags: ["PM4Sand","licuacion"]
+  embed: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  poster: "/assets/posters/video2.jpg"
